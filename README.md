@@ -1,7 +1,5 @@
 # Guideline on how to build and run the service
 
-    ---
-
 ## Prerequisites
 
 The following dependencies must be installed on your system:
